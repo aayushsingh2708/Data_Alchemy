@@ -55,6 +55,8 @@ Data_Alchemy is an ETL (Extract, Transform, Load) project that processes [`lapto
    - Create reporting tables (e.g., [`summary`](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/SQL/Create_Rpt.sql)).
    - Generate fact table views for reporting.
    - Apply **unique clustered indexes** to dimension tables.
+   - Also, drop **unique clustered indexes** to dimesnion tables after creation of the staging import container in the data flow.
+   - Truncate the `summary` tables for data integrity.
 
 5. **Power BI Analysis:**
    - Key insights from [`Laptop_ETL_Presentation.pbix`](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Visualization(PowerBI)/Laptop_ETL_Presentation.pbix):
