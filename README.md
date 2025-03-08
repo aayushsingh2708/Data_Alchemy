@@ -96,7 +96,9 @@ Data_Alchemy is an ETL (Extract, Transform, Load) project that processes [`lapto
   - Reporting (`rpt`)
 - Staging and fact tables are truncated in the data flow for consistency.
 
-![ETL Pipeline Flow](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/images/pipeline_flow.png)
+![ETL Pipeline Flow](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/Pipeline1.png)
+![ETL Pipeline Flow2](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/Pipeline2.png)
+![ETL Pipeline Flow3](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/Pipeline3.png)
 
 ## Dashboards
 - Power BI reports provide insights on:
