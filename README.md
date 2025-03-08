@@ -88,6 +88,8 @@ Data_Alchemy is an ETL (Extract, Transform, Load) project that processes [`lapto
 - Unique identifiers (UIDs) are generated for each `dim` via lookup operations.
 - The `rpt` schema contains aggregated reporting views ([`Create_Rpt.sql`](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/SQL/Create_Rpt.sql)).
 
+![Data Model](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/DataModel.png)
+
 ## Pipeline Flow
 - The ETL process is managed through SSIS in **VSCode 2022** ([`Load_Laptop_Prices.dtsx`](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/ETL/Load_Laptop_Prices.dtsx)).
 - Data moves through:
@@ -106,6 +108,10 @@ Data_Alchemy is an ETL (Extract, Transform, Load) project that processes [`lapto
   - **Storage type (SSD vs HDD) and cost impact**
   - **Premium configurations and pricing trends**
 - Power BI Report: [`Laptop_ETL_Presentation.pbix`](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Visualization(PowerBI)/Laptop_ETL_Presentation.pbix)
+
+![Power BI](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/PowerBI1.png)
+![Power BI2](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/PowerBI2.png)
+![Power BI3](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/PowerBI2.png)
 
 ---
 
