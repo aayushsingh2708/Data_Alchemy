@@ -113,7 +113,7 @@ Data_Alchemy is an ETL (Extract, Transform, Load) project that processes [`lapto
 
 ![Power BI](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/PowerBI1.png)
 ![Power BI2](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/PowerBI2.png)
-![Power BI3](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/PowerBI2.png)
+![Power BI3](https://github.com/aayushsingh2708/Data_Alchemy/blob/master/Images/PowerBI3.png)
 
 ---
 
